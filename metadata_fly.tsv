@@ -1,0 +1,104 @@
+lib id	description	raw_reads	circle junction reads	group	SRA id
+BS40	embryos, 0-2 hr after egg laying	68,002,340	758	whole embryo	SRR1197370
+BS41	embryos, 0-2 hr after egg laying	48,119,073	350	whole embryo	SRR767606
+BS43	embryos, 2-4 hr after egg laying	27,032,927	226	whole embryo	SRR1197368
+BS44	embryos, 2-4 hr after egg laying	43,283,104	306	whole embryo	SRR767626
+BS47	embryos, 4-6 hr after egg laying	72,610,711	458	whole embryo	SRR767609
+BS51	embryos, 6-8 hr after egg laying	64,980,322	586	whole embryo	SRR1197333
+BS52	embryos, 8-10 hr after egg laying	49,810,945	721	whole embryo	SRR767615
+BS56	embryos, 10-12 hr after egg laying	56,088,065	663	whole embryo	SRR767616
+BS58	embryos, 12-14 hr after egg laying	39,716,564	499	whole embryo	SRR1197369
+BS59	embryos, 12-14 hr after egg laying	59,552,294	927	whole embryo	SRR1197332
+BS61	embryos, 14-16 hr after egg laying	62,094,399	1,272	whole embryo	SRR1197331
+BS64	embryos, 16-18 hr after egg laying	39,242,457	1,161	whole embryo	SRR1197330
+BS67	embryos, 18-20 hr after egg laying	39,273,372	1,355	whole embryo	SRR1197363
+BS68	embryos, 18-20 hr after egg laying	78,829,554	1,709	whole embryo	SRR1197327
+BS70	embryos, 20-22 hr after egg laying	33,927,272	1,239	whole embryo	SRR1197329
+BS73	embryos, 22-24 hr after egg laying	34,113,094	253	whole embryo	SRR1197366
+BS74	embryos, 22-24 hr after egg laying	71,447,527	1,416	whole embryo	SRR1197328
+BS303b	third instar larvae, wandering stage, imaginal discs	47,058,765	1,469	third instar larvae imaginal discs	SRR1197375
+BS304a	third instar larvae, wandering stage, imaginal discs	61,627,443	1,185	third instar larvae imaginal discs	SRR1197298
+BS304b	third instar larvae, wandering stage, imaginal discs	38,229,161	970	third instar larvae imaginal discs	SRR1197378
+BS305	third instar larvae, wandering stage, salivary glands	46,567,950	1,576	third instar larvae salivary glands	SRR1197351
+BS317	WPP, salivary glands	61,982,750	2,608	WPP salivary glands	SRR1197347
+BS318	WPP, salivary glands	43,141,253	2,006	WPP salivary glands	SRR1197345
+larvalmidgut5a	larval midgut	45,397,991	1,967	larval midgut	SRR1197306
+larvalmidgut5b	larval midgut	42,730,530	1,452	larval midgut	SRR1197386
+larvalmidgut6a	larval midgut	69,821,412	1,697	larval midgut	SRR1197384
+larvalmidgut6b	larval midgut	47,382,475	1,891	larval midgut	SRR1197304
+BS195	L3 stage larvae, dark blue gut PS(1-2)	54,911,290	1,915	L3 stage larvae, gut	SRR1197412
+BS196a	L3 stage larvae, dark blue gut PS(1-2)	71,636,220	738	L3 stage larvae, gut	SRR1197312
+BS196b	L3 stage larvae, dark blue gut PS(1-2)	53,857,465	271	L3 stage larvae, gut	SRR1197392
+BS200a	L3 stage larvae, light blue gut PS(3-6)	54,421,912	892	L3 stage larvae, gut	SRR1197308
+BS200b	L3 stage larvae, light blue gut PS(3-6)	39,033,888	808	L3 stage larvae, gut	SRR1197388
+BS201	L3 stage larvae, clear gut PS (7-9)	55,419,834	1,524	L3 stage larvae, gut	SRR1197408
+BS203a	L3 stage larvae, clear gut PS (7-9)	65,695,414	1,664	L3 stage larvae, gut	SRR1197307
+BS203b	L3 stage larvae, clear gut PS (7-9)	42,794,073	1,379	L3 stage larvae, gut	SRR1197387
+BS308	third instar larvae, wandering stage, digestive system	40,176,646	891	L3 stage larvae, digestive system	SRR1197353
+BS309	third instar larvae, wandering stage, digestive system	42,608,467	1,491	L3 stage larvae, digestive system	SRR1197354
+BS314	third instar larvae, wandering stage, CNS	42,446,363	3,717	third instar larvae, CNS	SRR1197348
+BS315a	third instar larvae, wandering stage, CNS	65,491,376	4,396	third instar larvae, CNS	SRR1197291
+BS315b	third instar larvae, wandering stage, CNS	43,047,492	4,294	third instar larvae, CNS	SRR1197371
+BS323	Pupae, WPP+2d, CNS	38,413,209	5,172	Pupae, WPP+2d, CNS	SRR1197346
+BS324	Pupae, WPP+2d, CNS	31,015,283	2,319	Pupae, WPP+2d, CNS	SRR1197460
+BS234	virgin female, eclosion + 1 day, heads	45,701,938	5,697	eclosion + 1 day, heads	SRR1197279
+BS235	virgin female, eclosion + 1 day, heads	42,376,923	4,701	eclosion + 1 day, heads	SRR1197275
+BS238	mated female, eclosion + 1 day, heads	45,537,157	5,997	eclosion + 1 day, heads	SRR1197273
+BS239	mated female, eclosion + 1 day, heads	45,600,298	5,492	eclosion + 1 day, heads	SRR1197274
+BS242	mated male, eclosion + 1 day, heads	47,627,570	6,592	eclosion + 1 day, heads	SRR1197276
+BS243	mated male, eclosion + 1 day, heads	37,044,142	6,197	eclosion + 1 day, heads	SRR1197272
+BS252	virgin female, eclosion + 4 day, heads	73,828,880	6,377	eclosion + 4 days, heads	SRR1197294
+BS253	virgin female, eclosion + 4 day, heads	41,022,657	7,122	eclosion + 4 days, heads	SRR1197486
+BS257	mated female, eclosion + 4 day, heads	47,737,138	7,073	eclosion + 4 days, heads	SRR1197485
+BS258	mated female, eclosion + 4 day, heads	40,989,426	6,301	eclosion + 4 days, heads	SRR1197484
+BS260	mated male, eclosion + 4 day, heads	46,482,489	7,948	eclosion + 4 days, heads	SRR1197481
+BS261	mated male, eclosion + 4 day, heads	59,460,170	6,972	eclosion + 4 days, heads	SRR1197293
+BS284	virgin female, eclosion + 20 day, heads	39,890,914	11,011	eclosion + 20 days, heads	SRR1197472
+BS285	virgin female, eclosion + 20 day, heads	39,887,374	9,858	eclosion + 20 days, heads	SRR1197473
+BS287	mated female, eclosion + 20 day, heads	42,422,337	7,692	eclosion + 20 days, heads	SRR1197474
+BS288	mated female, eclosion + 20 day, heads	42,209,417	6,894	eclosion + 20 days, heads	SRR1197362
+BS290	mated male, eclosion + 20 day, heads	45,648,806	10,062	eclosion + 20 days, heads	SRR1197361
+BS291	mated male, eclosion + 20 day, heads	51,044,157	11,282	eclosion + 20 days, heads	SRR1197359
+BS264	virgin female, eclosion + 4 day, ovaries	56,955,497	787	ovaries	SRR1197296
+BS265	virgin female, eclosion + 4 day, ovaries	41,078,931	731	ovaries	SRR1197480
+BS268	mated female, eclosion + 4 day, ovaries	47,518,136	956	ovaries	SRR1197483
+BS269	mated female, eclosion + 4 day, ovaries	44,298,758	857	ovaries	SRR1197482
+BS272	mated male, eclosion + 4 day, testes	57,835,421	1,316	testes	SRR1197297
+adultmidgut4a	adult midgut	70,287,864	3,129	adult midgut	SRR1197303
+adultmidgut4b	adult midgut	43,694,463	2,676	adult midgut	SRR1197383
+BS249	mixed males and females, eclosion + 1 day, carcass	36,542,829	1,732	carcass, eclosion + 1 day	SRR1197269
+BS250	mixed males and females, eclosion + 1 day, carcass	41,729,055	1,262	carcass, eclosion + 1 day	SRR1197487
+BS281	mixed males and females, eclosion + 4 day, carcass	37,308,814	3,166	carcass, eclosion + 4 days	SRR1197475
+BS282	mixed males and females, eclosion + 4 day, carcass	44,491,802	2,464	carcass, eclosion + 4 days	SRR1197372
+BS296	mixed males and females, eclosion + 20 day, carcass	37,537,128	3,718	carcass, eclosion + 20 days	SRR1197355
+BS297	mixed males and females, eclosion + 20 day, carcass	38,333,731	3,237	carcass, eclosion + 20 days	SRR1197356
+BS246	mixed males and females, eclosion +1 day, digestive system	37,158,263	1,326	digestive system, eclosion + 1 day	SRR1197271
+BS247	mixed males and females, eclosion + 1 day, digestive system	42,535,736	686	digestive system, eclosion + 1 day	SRR1197270
+BS278	mixed males and females, eclosion + 4 day, digestive system	41,427,113	1,537	digestive system, eclosion + 4 days	SRR1197476
+BS279	mixed males and females, eclosion + 4 day, digestive system	42,305,741	1,624	digestive system, eclosion + 4 days	SRR1197477
+BS293	mixed males and females, eclosion + 20 day, digestive system	53,324,102	2,344	digestive system, eclosion + 20 days	SRR1197360
+BS294	mixed males and females, eclosion + 20 day, digestive system	42,996,347	1,182	digestive system, eclosion + 20 days	SRR1197358
+BS12	S2-DRSC	47,859,675	2,790	S2, cells	SRR1197282
+BS76	S2R+	45,199,045	1,903	S2, cells	SRR1197280
+BS80	S1	44,096,431	1,824	S1 cells	SRR1197281
+BS181	ML-DmBG3-c2	46,340,485	1,142	BG3 cells	SRR1197402
+BS592	BG3-C2-R2-untreated	60,763,761	1,917	BG3 cells	SRR1197452
+BS593	BG3-C2-R2-5h 20E	57,107,665	1,530	BG3 cells	SRR1197453
+BS594	BG3-C2-R2-24h 20E	58,043,382	1,778	BG3 cells	SRR1197450
+BS606	BG3-C2-R3-5h 20E	62,251,308	1,258	BG3 cells	SRR1197447
+BS608	BG3C2 0hr 20E	50,911,646	1,198	BG3 cells	SRR1197446
+BS609	BG3C2 1hr 20E	52,409,672	1,181	BG3 cells	SRR1197443
+BS612	BG3C2 7hr 20E	46,929,573	1,365	BG3 cells	SRR1197441
+BS613	BG3C2 0hr 20E	48,755,929	1,535	BG3 cells	SRR1197439
+BS614	BG3C2 1hr 20E	46,787,100	1,546	BG3 cells	SRR1197440
+BS615	BG3C2 3hr 20E	46,097,470	1,399	BG3 cells	SRR1197442
+BS616	BG3C2 5hr 20E	50,222,389	1,833	BG3 cells	SRR1197438
+BS617	BG3C2 7hr 20E	49,506,052	1,454	BG3 cells	SRR1197437
+BS583	Kc167-R1-untreated	47,141,661	4,564	Kc167 cells	SRR1197458
+BS584	Kc167-R1-5h 20E	47,213,910	3,458	Kc167 cells	SRR1197457
+BS585	Kc167-R1-24h 20E	61,002,752	6,612	Kc167 cells	SRR1197455
+BS586	Kc167-R2-untreated	57,987,908	4,721	Kc167 cells	SRR1197456
+BS587	Kc167-R2-5h 20E	46,105,014	3,291	Kc167 cells	SRR1197454
+BS588	Kc167-R2-24h 20E	49,696,299	4,628	Kc167 cells	SRR1197451
+BS205	CME W2	54,494,471	1,286	CME cells	SRR1197407
+BS28	CME L1	54,098,588	3,082	CME cells	SRR1197410
